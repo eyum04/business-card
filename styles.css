@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.avatar {
+    width: 200px;
+    margin-right: 55px;
+}
+
+.card {
+    width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    background: #FADBB5;
+    color: #253C9F;
+    border-bottom: 15px solid #d8cefe;
+    border-radius: 15px;
+    border-color: #682C5D;
+    font-weight:lighter;
+    font-size: larger;
+}
+
+.bio{
+    margin-top: 40px;
+}
+
+.linkedin{
+    font-size: small;
+    font-weight: bolder;
+    margin-top: 230px;
+    
+}
+
+a:hover, h3:hover{
+    background-color: yellow;
+}
